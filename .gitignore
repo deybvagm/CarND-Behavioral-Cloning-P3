@@ -1,0 +1,8 @@
+data/
+dataset/
+data.zip
+smooth-driving.tar.gz
+train-data-sides.tar.gz
+.idea
+.ipynb_checkpoints
+
